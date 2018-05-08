@@ -1,0 +1,1183 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.5" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="jPanel1" max="32767" attributes="0"/>
+                  <Component id="jPanel3" max="32767" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jPanel1" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jPanel3" max="32767" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="jPanel1">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="66" green="0" red="66" type="rgb"/>
+        </Property>
+      </Properties>
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="jPanel2" max="32767" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="jPanel2" min="-2" pref="59" max="-2" attributes="0"/>
+                  <EmptySpace max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Container class="javax.swing.JPanel" name="jPanel2">
+          <Properties>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="cc" red="33" type="rgb"/>
+            </Property>
+          </Properties>
+
+          <Layout>
+            <DimensionLayout dim="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="329" max="-2" attributes="0"/>
+                      <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+            <DimensionLayout dim="1">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="jLabel1" min="-2" pref="43" max="-2" attributes="0"/>
+                      <EmptySpace max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+          </Layout>
+          <SubComponents>
+            <Component class="javax.swing.JLabel" name="jLabel1">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Andalus" size="36" style="0"/>
+                </Property>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="ff" green="ff" red="ff" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="User"/>
+              </Properties>
+              <AuxValues>
+                <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="1"/>
+              </AuxValues>
+            </Component>
+          </SubComponents>
+        </Container>
+      </SubComponents>
+    </Container>
+    <Container class="javax.swing.JPanel" name="jPanel3">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="66" green="0" red="66" type="rgb"/>
+        </Property>
+      </Properties>
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="jPanel4" max="32767" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="1" attributes="0">
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="jPanel4" max="32767" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Container class="javax.swing.JPanel" name="jPanel4">
+
+          <Layout>
+            <DimensionLayout dim="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="jTabbedPane1" max="32767" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+            <DimensionLayout dim="1">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="1" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="jTabbedPane1" max="32767" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+          </Layout>
+          <SubComponents>
+            <Container class="javax.swing.JTabbedPane" name="jTabbedPane1">
+
+              <Layout class="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout"/>
+              <SubComponents>
+                <Container class="javax.swing.JPanel" name="jPanel5">
+                  <Constraints>
+                    <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout" value="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout$JTabbedPaneConstraintsDescription">
+                      <JTabbedPaneConstraints tabName="Connect with Server">
+                        <Property name="tabTitle" type="java.lang.String" value="Connect with Server"/>
+                      </JTabbedPaneConstraints>
+                    </Constraint>
+                  </Constraints>
+
+                  <Layout>
+                    <DimensionLayout dim="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace min="-2" pref="31" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                  <Group type="102" attributes="0">
+                                      <Component id="jLabel2" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                                      <Component id="jComboBox1" min="-2" pref="339" max="-2" attributes="0"/>
+                                      <EmptySpace min="-2" pref="27" max="-2" attributes="0"/>
+                                      <Component id="jButton2" pref="248" max="32767" attributes="0"/>
+                                  </Group>
+                                  <Component id="jButton1" max="32767" attributes="0"/>
+                                  <Component id="jScrollPane1" alignment="0" max="32767" attributes="0"/>
+                              </Group>
+                              <EmptySpace pref="30" max="32767" attributes="0"/>
+                          </Group>
+                      </Group>
+                    </DimensionLayout>
+                    <DimensionLayout dim="1">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="jButton1" min="-2" pref="35" max="-2" attributes="0"/>
+                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                              <Component id="jScrollPane1" min="-2" pref="140" max="-2" attributes="0"/>
+                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="jLabel2" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="jComboBox1" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="jButton2" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace pref="29" max="32767" attributes="0"/>
+                          </Group>
+                      </Group>
+                    </DimensionLayout>
+                  </Layout>
+                  <SubComponents>
+                    <Component class="javax.swing.JButton" name="jButton1">
+                      <Properties>
+                        <Property name="text" type="java.lang.String" value="View all Available Cloud Server Id"/>
+                      </Properties>
+                      <Events>
+                        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton1ActionPerformed"/>
+                      </Events>
+                    </Component>
+                    <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+                      <AuxValues>
+                        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+                      </AuxValues>
+
+                      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+                      <SubComponents>
+                        <Component class="javax.swing.JTable" name="jTable1">
+                          <Properties>
+                            <Property name="model" type="javax.swing.table.TableModel" editor="org.netbeans.modules.form.editors2.TableModelEditor">
+                              <Table columnCount="1" rowCount="0">
+                                <Column editable="true" title="Cloud Server Id" type="java.lang.Object"/>
+                              </Table>
+                            </Property>
+                            <Property name="columnModel" type="javax.swing.table.TableColumnModel" editor="org.netbeans.modules.form.editors2.TableColumnModelEditor">
+                              <TableColumnModel selectionModel="0">
+                                <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                                  <Title value="Cloud Server Id"/>
+                                  <Editor/>
+                                  <Renderer/>
+                                </Column>
+                              </TableColumnModel>
+                            </Property>
+                            <Property name="tableHeader" type="javax.swing.table.JTableHeader" editor="org.netbeans.modules.form.editors2.JTableHeaderEditor">
+                              <TableHeader reorderingAllowed="true" resizingAllowed="true"/>
+                            </Property>
+                          </Properties>
+                          <AuxValues>
+                            <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="1"/>
+                          </AuxValues>
+                        </Component>
+                      </SubComponents>
+                    </Container>
+                    <Component class="javax.swing.JLabel" name="jLabel2">
+                      <Properties>
+                        <Property name="text" type="java.lang.String" value="Choose Cloud Server Id:"/>
+                      </Properties>
+                    </Component>
+                    <Component class="javax.swing.JComboBox" name="jComboBox1">
+                      <Properties>
+                        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+                          <StringArray count="1">
+                            <StringItem index="0" value="&lt;--Select--&gt;"/>
+                          </StringArray>
+                        </Property>
+                      </Properties>
+                      <AuxValues>
+                        <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="1"/>
+                      </AuxValues>
+                    </Component>
+                    <Component class="javax.swing.JButton" name="jButton2">
+                      <Properties>
+                        <Property name="text" type="java.lang.String" value="Connect"/>
+                      </Properties>
+                      <Events>
+                        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton2ActionPerformed"/>
+                      </Events>
+                    </Component>
+                  </SubComponents>
+                </Container>
+                <Container class="javax.swing.JPanel" name="jPanel6">
+                  <Constraints>
+                    <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout" value="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout$JTabbedPaneConstraintsDescription">
+                      <JTabbedPaneConstraints tabName="Generate Chunks">
+                        <Property name="tabTitle" type="java.lang.String" value="Generate Chunks"/>
+                      </JTabbedPaneConstraints>
+                    </Constraint>
+                  </Constraints>
+
+                  <Layout>
+                    <DimensionLayout dim="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" alignment="1" attributes="0">
+                              <EmptySpace max="32767" attributes="0"/>
+                              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                  <Group type="102" alignment="1" attributes="0">
+                                      <Component id="jLabel3" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace min="-2" pref="37" max="-2" attributes="0"/>
+                                      <Component id="jPanel7" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" alignment="1" attributes="0">
+                                      <Group type="103" groupAlignment="0" attributes="0">
+                                          <Component id="jButton4" max="32767" attributes="0"/>
+                                          <Component id="jButton3" max="32767" attributes="0"/>
+                                      </Group>
+                                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                          <Component id="jTextField1" pref="584" max="32767" attributes="0"/>
+                                          <Component id="jScrollPane2" max="32767" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                              </Group>
+                              <EmptySpace min="-2" pref="27" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="jButton9" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                          </Group>
+                      </Group>
+                    </DimensionLayout>
+                    <DimensionLayout dim="1">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" attributes="0">
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Group type="102" attributes="0">
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="jPanel7" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <EmptySpace min="-2" pref="36" max="-2" attributes="0"/>
+                                      <Component id="jLabel3" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                              </Group>
+                              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="jButton3" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="jTextField1" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Group type="102" attributes="0">
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="jScrollPane2" min="-2" pref="106" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <EmptySpace min="-2" pref="45" max="-2" attributes="0"/>
+                                      <Component id="jButton4" min="-2" pref="33" max="-2" attributes="0"/>
+                                  </Group>
+                              </Group>
+                              <EmptySpace pref="21" max="32767" attributes="0"/>
+                              <Component id="jButton9" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                    </DimensionLayout>
+                  </Layout>
+                  <SubComponents>
+                    <Component class="javax.swing.JLabel" name="jLabel3">
+                      <Properties>
+                        <Property name="text" type="java.lang.String" value="Data:"/>
+                      </Properties>
+                    </Component>
+                    <Container class="javax.swing.JPanel" name="jPanel7">
+
+                      <Layout>
+                        <DimensionLayout dim="0">
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" alignment="0" attributes="0">
+                                  <EmptySpace min="-2" pref="23" max="-2" attributes="0"/>
+                                  <Component id="jComboBox2" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                                  <Component id="jComboBox3" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                                  <Component id="jComboBox4" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                                  <Component id="jComboBox5" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                                  <Component id="jComboBox6" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                                  <Component id="jComboBox7" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                                  <Component id="jComboBox8" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                                  <Component id="jComboBox9" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                                  <Component id="jComboBox10" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                                  <Component id="jComboBox11" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                                  <Component id="jComboBox12" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                                  <Component id="jComboBox13" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace pref="37" max="32767" attributes="0"/>
+                              </Group>
+                          </Group>
+                        </DimensionLayout>
+                        <DimensionLayout dim="1">
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" alignment="0" attributes="0">
+                                  <EmptySpace min="-2" pref="21" max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="1" attributes="0">
+                                      <Group type="103" alignment="0" groupAlignment="3" attributes="0">
+                                          <Component id="jComboBox10" alignment="3" min="-2" max="-2" attributes="0"/>
+                                          <Component id="jComboBox11" alignment="3" min="-2" max="-2" attributes="0"/>
+                                          <Component id="jComboBox12" alignment="3" min="-2" max="-2" attributes="0"/>
+                                          <Component id="jComboBox13" alignment="3" min="-2" max="-2" attributes="0"/>
+                                      </Group>
+                                      <Group type="103" alignment="0" groupAlignment="3" attributes="0">
+                                          <Component id="jComboBox2" alignment="3" min="-2" max="-2" attributes="0"/>
+                                          <Component id="jComboBox3" alignment="3" min="-2" max="-2" attributes="0"/>
+                                          <Component id="jComboBox4" alignment="3" min="-2" max="-2" attributes="0"/>
+                                          <Component id="jComboBox5" alignment="3" min="-2" max="-2" attributes="0"/>
+                                          <Component id="jComboBox6" alignment="3" min="-2" max="-2" attributes="0"/>
+                                          <Component id="jComboBox7" alignment="3" min="-2" max="-2" attributes="0"/>
+                                          <Component id="jComboBox8" alignment="3" min="-2" max="-2" attributes="0"/>
+                                          <Component id="jComboBox9" alignment="3" min="-2" max="-2" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                                  <EmptySpace pref="25" max="32767" attributes="0"/>
+                              </Group>
+                          </Group>
+                        </DimensionLayout>
+                      </Layout>
+                      <SubComponents>
+                        <Component class="javax.swing.JComboBox" name="jComboBox2">
+                          <Properties>
+                            <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+                              <StringArray count="26">
+                                <StringItem index="0" value="A"/>
+                                <StringItem index="1" value="B"/>
+                                <StringItem index="2" value="C"/>
+                                <StringItem index="3" value="D"/>
+                                <StringItem index="4" value="E"/>
+                                <StringItem index="5" value="F"/>
+                                <StringItem index="6" value="G"/>
+                                <StringItem index="7" value="H"/>
+                                <StringItem index="8" value="I"/>
+                                <StringItem index="9" value="J"/>
+                                <StringItem index="10" value="K"/>
+                                <StringItem index="11" value="L"/>
+                                <StringItem index="12" value="M"/>
+                                <StringItem index="13" value="N"/>
+                                <StringItem index="14" value="O"/>
+                                <StringItem index="15" value="P"/>
+                                <StringItem index="16" value="Q"/>
+                                <StringItem index="17" value="R"/>
+                                <StringItem index="18" value="S"/>
+                                <StringItem index="19" value="T"/>
+                                <StringItem index="20" value="U"/>
+                                <StringItem index="21" value="V"/>
+                                <StringItem index="22" value="W"/>
+                                <StringItem index="23" value="X"/>
+                                <StringItem index="24" value="Y"/>
+                                <StringItem index="25" value="Z"/>
+                              </StringArray>
+                            </Property>
+                          </Properties>
+                        </Component>
+                        <Component class="javax.swing.JComboBox" name="jComboBox3">
+                          <Properties>
+                            <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+                              <StringArray count="26">
+                                <StringItem index="0" value="A"/>
+                                <StringItem index="1" value="B"/>
+                                <StringItem index="2" value="C"/>
+                                <StringItem index="3" value="D"/>
+                                <StringItem index="4" value="E"/>
+                                <StringItem index="5" value="F"/>
+                                <StringItem index="6" value="G"/>
+                                <StringItem index="7" value="H"/>
+                                <StringItem index="8" value="I"/>
+                                <StringItem index="9" value="J"/>
+                                <StringItem index="10" value="K"/>
+                                <StringItem index="11" value="L"/>
+                                <StringItem index="12" value="M"/>
+                                <StringItem index="13" value="N"/>
+                                <StringItem index="14" value="O"/>
+                                <StringItem index="15" value="P"/>
+                                <StringItem index="16" value="Q"/>
+                                <StringItem index="17" value="R"/>
+                                <StringItem index="18" value="S"/>
+                                <StringItem index="19" value="T"/>
+                                <StringItem index="20" value="U"/>
+                                <StringItem index="21" value="V"/>
+                                <StringItem index="22" value="W"/>
+                                <StringItem index="23" value="X"/>
+                                <StringItem index="24" value="Y"/>
+                                <StringItem index="25" value="Z"/>
+                              </StringArray>
+                            </Property>
+                          </Properties>
+                        </Component>
+                        <Component class="javax.swing.JComboBox" name="jComboBox4">
+                          <Properties>
+                            <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+                              <StringArray count="26">
+                                <StringItem index="0" value="A"/>
+                                <StringItem index="1" value="B"/>
+                                <StringItem index="2" value="C"/>
+                                <StringItem index="3" value="D"/>
+                                <StringItem index="4" value="E"/>
+                                <StringItem index="5" value="F"/>
+                                <StringItem index="6" value="G"/>
+                                <StringItem index="7" value="H"/>
+                                <StringItem index="8" value="I"/>
+                                <StringItem index="9" value="J"/>
+                                <StringItem index="10" value="K"/>
+                                <StringItem index="11" value="L"/>
+                                <StringItem index="12" value="M"/>
+                                <StringItem index="13" value="N"/>
+                                <StringItem index="14" value="O"/>
+                                <StringItem index="15" value="P"/>
+                                <StringItem index="16" value="Q"/>
+                                <StringItem index="17" value="R"/>
+                                <StringItem index="18" value="S"/>
+                                <StringItem index="19" value="T"/>
+                                <StringItem index="20" value="U"/>
+                                <StringItem index="21" value="V"/>
+                                <StringItem index="22" value="W"/>
+                                <StringItem index="23" value="X"/>
+                                <StringItem index="24" value="Y"/>
+                                <StringItem index="25" value="Z"/>
+                              </StringArray>
+                            </Property>
+                          </Properties>
+                        </Component>
+                        <Component class="javax.swing.JComboBox" name="jComboBox5">
+                          <Properties>
+                            <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+                              <StringArray count="26">
+                                <StringItem index="0" value="A"/>
+                                <StringItem index="1" value="B"/>
+                                <StringItem index="2" value="C"/>
+                                <StringItem index="3" value="D"/>
+                                <StringItem index="4" value="E"/>
+                                <StringItem index="5" value="F"/>
+                                <StringItem index="6" value="G"/>
+                                <StringItem index="7" value="H"/>
+                                <StringItem index="8" value="I"/>
+                                <StringItem index="9" value="J"/>
+                                <StringItem index="10" value="K"/>
+                                <StringItem index="11" value="L"/>
+                                <StringItem index="12" value="M"/>
+                                <StringItem index="13" value="N"/>
+                                <StringItem index="14" value="O"/>
+                                <StringItem index="15" value="P"/>
+                                <StringItem index="16" value="Q"/>
+                                <StringItem index="17" value="R"/>
+                                <StringItem index="18" value="S"/>
+                                <StringItem index="19" value="T"/>
+                                <StringItem index="20" value="U"/>
+                                <StringItem index="21" value="V"/>
+                                <StringItem index="22" value="W"/>
+                                <StringItem index="23" value="X"/>
+                                <StringItem index="24" value="Y"/>
+                                <StringItem index="25" value="Z"/>
+                              </StringArray>
+                            </Property>
+                          </Properties>
+                        </Component>
+                        <Component class="javax.swing.JComboBox" name="jComboBox6">
+                          <Properties>
+                            <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+                              <StringArray count="26">
+                                <StringItem index="0" value="A"/>
+                                <StringItem index="1" value="B"/>
+                                <StringItem index="2" value="C"/>
+                                <StringItem index="3" value="D"/>
+                                <StringItem index="4" value="E"/>
+                                <StringItem index="5" value="F"/>
+                                <StringItem index="6" value="G"/>
+                                <StringItem index="7" value="H"/>
+                                <StringItem index="8" value="I"/>
+                                <StringItem index="9" value="J"/>
+                                <StringItem index="10" value="K"/>
+                                <StringItem index="11" value="L"/>
+                                <StringItem index="12" value="M"/>
+                                <StringItem index="13" value="N"/>
+                                <StringItem index="14" value="O"/>
+                                <StringItem index="15" value="P"/>
+                                <StringItem index="16" value="Q"/>
+                                <StringItem index="17" value="R"/>
+                                <StringItem index="18" value="S"/>
+                                <StringItem index="19" value="T"/>
+                                <StringItem index="20" value="U"/>
+                                <StringItem index="21" value="V"/>
+                                <StringItem index="22" value="W"/>
+                                <StringItem index="23" value="X"/>
+                                <StringItem index="24" value="Y"/>
+                                <StringItem index="25" value="Z"/>
+                              </StringArray>
+                            </Property>
+                          </Properties>
+                        </Component>
+                        <Component class="javax.swing.JComboBox" name="jComboBox7">
+                          <Properties>
+                            <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+                              <StringArray count="26">
+                                <StringItem index="0" value="A"/>
+                                <StringItem index="1" value="B"/>
+                                <StringItem index="2" value="C"/>
+                                <StringItem index="3" value="D"/>
+                                <StringItem index="4" value="E"/>
+                                <StringItem index="5" value="F"/>
+                                <StringItem index="6" value="G"/>
+                                <StringItem index="7" value="H"/>
+                                <StringItem index="8" value="I"/>
+                                <StringItem index="9" value="J"/>
+                                <StringItem index="10" value="K"/>
+                                <StringItem index="11" value="L"/>
+                                <StringItem index="12" value="M"/>
+                                <StringItem index="13" value="N"/>
+                                <StringItem index="14" value="O"/>
+                                <StringItem index="15" value="P"/>
+                                <StringItem index="16" value="Q"/>
+                                <StringItem index="17" value="R"/>
+                                <StringItem index="18" value="S"/>
+                                <StringItem index="19" value="T"/>
+                                <StringItem index="20" value="U"/>
+                                <StringItem index="21" value="V"/>
+                                <StringItem index="22" value="W"/>
+                                <StringItem index="23" value="X"/>
+                                <StringItem index="24" value="Y"/>
+                                <StringItem index="25" value="Z"/>
+                              </StringArray>
+                            </Property>
+                          </Properties>
+                        </Component>
+                        <Component class="javax.swing.JComboBox" name="jComboBox8">
+                          <Properties>
+                            <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+                              <StringArray count="26">
+                                <StringItem index="0" value="A"/>
+                                <StringItem index="1" value="B"/>
+                                <StringItem index="2" value="C"/>
+                                <StringItem index="3" value="D"/>
+                                <StringItem index="4" value="E"/>
+                                <StringItem index="5" value="F"/>
+                                <StringItem index="6" value="G"/>
+                                <StringItem index="7" value="H"/>
+                                <StringItem index="8" value="I"/>
+                                <StringItem index="9" value="J"/>
+                                <StringItem index="10" value="K"/>
+                                <StringItem index="11" value="L"/>
+                                <StringItem index="12" value="M"/>
+                                <StringItem index="13" value="N"/>
+                                <StringItem index="14" value="O"/>
+                                <StringItem index="15" value="P"/>
+                                <StringItem index="16" value="Q"/>
+                                <StringItem index="17" value="R"/>
+                                <StringItem index="18" value="S"/>
+                                <StringItem index="19" value="T"/>
+                                <StringItem index="20" value="U"/>
+                                <StringItem index="21" value="V"/>
+                                <StringItem index="22" value="W"/>
+                                <StringItem index="23" value="X"/>
+                                <StringItem index="24" value="Y"/>
+                                <StringItem index="25" value="Z"/>
+                              </StringArray>
+                            </Property>
+                          </Properties>
+                        </Component>
+                        <Component class="javax.swing.JComboBox" name="jComboBox9">
+                          <Properties>
+                            <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+                              <StringArray count="26">
+                                <StringItem index="0" value="A"/>
+                                <StringItem index="1" value="B"/>
+                                <StringItem index="2" value="C"/>
+                                <StringItem index="3" value="D"/>
+                                <StringItem index="4" value="E"/>
+                                <StringItem index="5" value="F"/>
+                                <StringItem index="6" value="G"/>
+                                <StringItem index="7" value="H"/>
+                                <StringItem index="8" value="I"/>
+                                <StringItem index="9" value="J"/>
+                                <StringItem index="10" value="K"/>
+                                <StringItem index="11" value="L"/>
+                                <StringItem index="12" value="M"/>
+                                <StringItem index="13" value="N"/>
+                                <StringItem index="14" value="O"/>
+                                <StringItem index="15" value="P"/>
+                                <StringItem index="16" value="Q"/>
+                                <StringItem index="17" value="R"/>
+                                <StringItem index="18" value="S"/>
+                                <StringItem index="19" value="T"/>
+                                <StringItem index="20" value="U"/>
+                                <StringItem index="21" value="V"/>
+                                <StringItem index="22" value="W"/>
+                                <StringItem index="23" value="X"/>
+                                <StringItem index="24" value="Y"/>
+                                <StringItem index="25" value="Z"/>
+                              </StringArray>
+                            </Property>
+                          </Properties>
+                        </Component>
+                        <Component class="javax.swing.JComboBox" name="jComboBox10">
+                          <Properties>
+                            <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+                              <StringArray count="26">
+                                <StringItem index="0" value="A"/>
+                                <StringItem index="1" value="B"/>
+                                <StringItem index="2" value="C"/>
+                                <StringItem index="3" value="D"/>
+                                <StringItem index="4" value="E"/>
+                                <StringItem index="5" value="F"/>
+                                <StringItem index="6" value="G"/>
+                                <StringItem index="7" value="H"/>
+                                <StringItem index="8" value="I"/>
+                                <StringItem index="9" value="J"/>
+                                <StringItem index="10" value="K"/>
+                                <StringItem index="11" value="L"/>
+                                <StringItem index="12" value="M"/>
+                                <StringItem index="13" value="N"/>
+                                <StringItem index="14" value="O"/>
+                                <StringItem index="15" value="P"/>
+                                <StringItem index="16" value="Q"/>
+                                <StringItem index="17" value="R"/>
+                                <StringItem index="18" value="S"/>
+                                <StringItem index="19" value="T"/>
+                                <StringItem index="20" value="U"/>
+                                <StringItem index="21" value="V"/>
+                                <StringItem index="22" value="W"/>
+                                <StringItem index="23" value="X"/>
+                                <StringItem index="24" value="Y"/>
+                                <StringItem index="25" value="Z"/>
+                              </StringArray>
+                            </Property>
+                          </Properties>
+                        </Component>
+                        <Component class="javax.swing.JComboBox" name="jComboBox11">
+                          <Properties>
+                            <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+                              <StringArray count="26">
+                                <StringItem index="0" value="A"/>
+                                <StringItem index="1" value="B"/>
+                                <StringItem index="2" value="C"/>
+                                <StringItem index="3" value="D"/>
+                                <StringItem index="4" value="E"/>
+                                <StringItem index="5" value="F"/>
+                                <StringItem index="6" value="G"/>
+                                <StringItem index="7" value="H"/>
+                                <StringItem index="8" value="I"/>
+                                <StringItem index="9" value="J"/>
+                                <StringItem index="10" value="K"/>
+                                <StringItem index="11" value="L"/>
+                                <StringItem index="12" value="M"/>
+                                <StringItem index="13" value="N"/>
+                                <StringItem index="14" value="O"/>
+                                <StringItem index="15" value="P"/>
+                                <StringItem index="16" value="Q"/>
+                                <StringItem index="17" value="R"/>
+                                <StringItem index="18" value="S"/>
+                                <StringItem index="19" value="T"/>
+                                <StringItem index="20" value="U"/>
+                                <StringItem index="21" value="V"/>
+                                <StringItem index="22" value="W"/>
+                                <StringItem index="23" value="X"/>
+                                <StringItem index="24" value="Y"/>
+                                <StringItem index="25" value="Z"/>
+                              </StringArray>
+                            </Property>
+                          </Properties>
+                        </Component>
+                        <Component class="javax.swing.JComboBox" name="jComboBox12">
+                          <Properties>
+                            <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+                              <StringArray count="26">
+                                <StringItem index="0" value="A"/>
+                                <StringItem index="1" value="B"/>
+                                <StringItem index="2" value="C"/>
+                                <StringItem index="3" value="D"/>
+                                <StringItem index="4" value="E"/>
+                                <StringItem index="5" value="F"/>
+                                <StringItem index="6" value="G"/>
+                                <StringItem index="7" value="H"/>
+                                <StringItem index="8" value="I"/>
+                                <StringItem index="9" value="J"/>
+                                <StringItem index="10" value="K"/>
+                                <StringItem index="11" value="L"/>
+                                <StringItem index="12" value="M"/>
+                                <StringItem index="13" value="N"/>
+                                <StringItem index="14" value="O"/>
+                                <StringItem index="15" value="P"/>
+                                <StringItem index="16" value="Q"/>
+                                <StringItem index="17" value="R"/>
+                                <StringItem index="18" value="S"/>
+                                <StringItem index="19" value="T"/>
+                                <StringItem index="20" value="U"/>
+                                <StringItem index="21" value="V"/>
+                                <StringItem index="22" value="W"/>
+                                <StringItem index="23" value="X"/>
+                                <StringItem index="24" value="Y"/>
+                                <StringItem index="25" value="Z"/>
+                              </StringArray>
+                            </Property>
+                          </Properties>
+                        </Component>
+                        <Component class="javax.swing.JComboBox" name="jComboBox13">
+                          <Properties>
+                            <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+                              <StringArray count="26">
+                                <StringItem index="0" value="A"/>
+                                <StringItem index="1" value="B"/>
+                                <StringItem index="2" value="C"/>
+                                <StringItem index="3" value="D"/>
+                                <StringItem index="4" value="E"/>
+                                <StringItem index="5" value="F"/>
+                                <StringItem index="6" value="G"/>
+                                <StringItem index="7" value="H"/>
+                                <StringItem index="8" value="I"/>
+                                <StringItem index="9" value="J"/>
+                                <StringItem index="10" value="K"/>
+                                <StringItem index="11" value="L"/>
+                                <StringItem index="12" value="M"/>
+                                <StringItem index="13" value="N"/>
+                                <StringItem index="14" value="O"/>
+                                <StringItem index="15" value="P"/>
+                                <StringItem index="16" value="Q"/>
+                                <StringItem index="17" value="R"/>
+                                <StringItem index="18" value="S"/>
+                                <StringItem index="19" value="T"/>
+                                <StringItem index="20" value="U"/>
+                                <StringItem index="21" value="V"/>
+                                <StringItem index="22" value="W"/>
+                                <StringItem index="23" value="X"/>
+                                <StringItem index="24" value="Y"/>
+                                <StringItem index="25" value="Z"/>
+                              </StringArray>
+                            </Property>
+                          </Properties>
+                        </Component>
+                      </SubComponents>
+                    </Container>
+                    <Component class="javax.swing.JTextField" name="jTextField1">
+                    </Component>
+                    <Component class="javax.swing.JButton" name="jButton3">
+                      <Properties>
+                        <Property name="text" type="java.lang.String" value="View Selected Data:"/>
+                      </Properties>
+                      <Events>
+                        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton3ActionPerformed"/>
+                      </Events>
+                    </Component>
+                    <Component class="javax.swing.JButton" name="jButton4">
+                      <Properties>
+                        <Property name="text" type="java.lang.String" value="Split Data into Chunks"/>
+                      </Properties>
+                      <Events>
+                        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton4ActionPerformed"/>
+                      </Events>
+                    </Component>
+                    <Container class="javax.swing.JScrollPane" name="jScrollPane2">
+                      <AuxValues>
+                        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+                      </AuxValues>
+
+                      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+                      <SubComponents>
+                        <Component class="javax.swing.JTextArea" name="jTextArea1">
+                          <Properties>
+                            <Property name="columns" type="int" value="20"/>
+                            <Property name="rows" type="int" value="5"/>
+                          </Properties>
+                        </Component>
+                      </SubComponents>
+                    </Container>
+                    <Component class="javax.swing.JButton" name="jButton9">
+                      <Properties>
+                        <Property name="text" type="java.lang.String" value="Clear"/>
+                      </Properties>
+                      <Events>
+                        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton9ActionPerformed"/>
+                      </Events>
+                    </Component>
+                  </SubComponents>
+                </Container>
+                <Container class="javax.swing.JPanel" name="jPanel8">
+                  <Constraints>
+                    <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout" value="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout$JTabbedPaneConstraintsDescription">
+                      <JTabbedPaneConstraints tabName="Generate Signatures">
+                        <Property name="tabTitle" type="java.lang.String" value="Generate Signatures"/>
+                      </JTabbedPaneConstraints>
+                    </Constraint>
+                  </Constraints>
+
+                  <Layout>
+                    <DimensionLayout dim="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace min="-2" pref="26" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                  <Component id="jButton5" max="32767" attributes="0"/>
+                                  <Component id="jScrollPane3" max="32767" attributes="0"/>
+                                  <Component id="jButton6" pref="779" max="32767" attributes="0"/>
+                              </Group>
+                              <EmptySpace pref="28" max="32767" attributes="0"/>
+                          </Group>
+                      </Group>
+                    </DimensionLayout>
+                    <DimensionLayout dim="1">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace min="-2" pref="18" max="-2" attributes="0"/>
+                              <Component id="jButton5" min="-2" pref="34" max="-2" attributes="0"/>
+                              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                              <Component id="jScrollPane3" min="-2" pref="130" max="-2" attributes="0"/>
+                              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                              <Component id="jButton6" min="-2" pref="36" max="-2" attributes="0"/>
+                              <EmptySpace pref="34" max="32767" attributes="0"/>
+                          </Group>
+                      </Group>
+                    </DimensionLayout>
+                  </Layout>
+                  <SubComponents>
+                    <Component class="javax.swing.JButton" name="jButton5">
+                      <Properties>
+                        <Property name="text" type="java.lang.String" value="Generate Signatures of each Chunks"/>
+                      </Properties>
+                      <Events>
+                        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton5ActionPerformed"/>
+                      </Events>
+                    </Component>
+                    <Container class="javax.swing.JScrollPane" name="jScrollPane3">
+                      <AuxValues>
+                        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+                      </AuxValues>
+
+                      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+                      <SubComponents>
+                        <Component class="javax.swing.JTextArea" name="jTextArea2">
+                          <Properties>
+                            <Property name="columns" type="int" value="20"/>
+                            <Property name="rows" type="int" value="5"/>
+                          </Properties>
+                        </Component>
+                      </SubComponents>
+                    </Container>
+                    <Component class="javax.swing.JButton" name="jButton6">
+                      <Properties>
+                        <Property name="text" type="java.lang.String" value="Send Prediction Message with One Chunks Signature to Server"/>
+                      </Properties>
+                      <Events>
+                        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton6ActionPerformed"/>
+                      </Events>
+                    </Component>
+                  </SubComponents>
+                </Container>
+                <Container class="javax.swing.JPanel" name="jPanel9">
+                  <Constraints>
+                    <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout" value="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout$JTabbedPaneConstraintsDescription">
+                      <JTabbedPaneConstraints tabName="Prediction Queue">
+                        <Property name="tabTitle" type="java.lang.String" value="Prediction Queue"/>
+                      </JTabbedPaneConstraints>
+                    </Constraint>
+                  </Constraints>
+
+                  <Layout>
+                    <DimensionLayout dim="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" attributes="0">
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Group type="102" attributes="0">
+                                      <EmptySpace min="-2" pref="32" max="-2" attributes="0"/>
+                                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                          <Component id="jScrollPane4" pref="770" max="32767" attributes="0"/>
+                                          <Component id="jButton7" max="32767" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <EmptySpace min="-2" pref="194" max="-2" attributes="0"/>
+                                      <Component id="jLabel4" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                              </Group>
+                              <EmptySpace pref="31" max="32767" attributes="0"/>
+                          </Group>
+                      </Group>
+                    </DimensionLayout>
+                    <DimensionLayout dim="1">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="jLabel4" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="jScrollPane4" min="-2" pref="145" max="-2" attributes="0"/>
+                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                              <Component id="jButton7" min="-2" pref="34" max="-2" attributes="0"/>
+                              <EmptySpace min="-2" pref="21" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                    </DimensionLayout>
+                  </Layout>
+                  <SubComponents>
+                    <Container class="javax.swing.JScrollPane" name="jScrollPane4">
+                      <AuxValues>
+                        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+                      </AuxValues>
+
+                      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+                      <SubComponents>
+                        <Component class="javax.swing.JTable" name="jTable2">
+                          <Properties>
+                            <Property name="model" type="javax.swing.table.TableModel" editor="org.netbeans.modules.form.editors2.TableModelEditor">
+                              <Table columnCount="3" rowCount="0">
+                                <Column editable="true" title="Signature" type="java.lang.Object"/>
+                                <Column editable="true" title="Chunk Id" type="java.lang.Object"/>
+                                <Column editable="true" title="Row Id" type="java.lang.Object"/>
+                              </Table>
+                            </Property>
+                            <Property name="columnModel" type="javax.swing.table.TableColumnModel" editor="org.netbeans.modules.form.editors2.TableColumnModelEditor">
+                              <TableColumnModel selectionModel="0">
+                                <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                                  <Title/>
+                                  <Editor/>
+                                  <Renderer/>
+                                </Column>
+                                <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                                  <Title/>
+                                  <Editor/>
+                                  <Renderer/>
+                                </Column>
+                                <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                                  <Title/>
+                                  <Editor/>
+                                  <Renderer/>
+                                </Column>
+                              </TableColumnModel>
+                            </Property>
+                            <Property name="tableHeader" type="javax.swing.table.JTableHeader" editor="org.netbeans.modules.form.editors2.JTableHeaderEditor">
+                              <TableHeader reorderingAllowed="true" resizingAllowed="true"/>
+                            </Property>
+                          </Properties>
+                          <AuxValues>
+                            <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="1"/>
+                          </AuxValues>
+                        </Component>
+                      </SubComponents>
+                    </Container>
+                    <Component class="javax.swing.JButton" name="jButton7">
+                      <Properties>
+                        <Property name="text" type="java.lang.String" value="Matching"/>
+                      </Properties>
+                      <Events>
+                        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton7ActionPerformed"/>
+                      </Events>
+                    </Component>
+                    <Component class="javax.swing.JLabel" name="jLabel4">
+                      <Properties>
+                        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                          <Font name="Andalus" size="24" style="0"/>
+                        </Property>
+                        <Property name="text" type="java.lang.String" value="Prediction Based Chunk Match (First Layer)"/>
+                      </Properties>
+                    </Component>
+                  </SubComponents>
+                </Container>
+                <Container class="javax.swing.JPanel" name="jPanel10">
+                  <Constraints>
+                    <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout" value="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout$JTabbedPaneConstraintsDescription">
+                      <JTabbedPaneConstraints tabName="Second Layer">
+                        <Property name="tabTitle" type="java.lang.String" value="Second Layer"/>
+                      </JTabbedPaneConstraints>
+                    </Constraint>
+                  </Constraints>
+
+                  <Layout>
+                    <DimensionLayout dim="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" attributes="0">
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Group type="102" attributes="0">
+                                      <EmptySpace min="-2" pref="290" max="-2" attributes="0"/>
+                                      <Component id="jLabel5" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <EmptySpace min="-2" pref="22" max="-2" attributes="0"/>
+                                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                          <Component id="jScrollPane5" pref="787" max="32767" attributes="0"/>
+                                          <Component id="jButton8" max="32767" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                              </Group>
+                              <EmptySpace pref="24" max="32767" attributes="0"/>
+                          </Group>
+                      </Group>
+                    </DimensionLayout>
+                    <DimensionLayout dim="1">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" alignment="1" attributes="0">
+                              <EmptySpace pref="18" max="32767" attributes="0"/>
+                              <Component id="jLabel5" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                              <Component id="jScrollPane5" min="-2" pref="132" max="-2" attributes="0"/>
+                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                              <Component id="jButton8" min="-2" pref="37" max="-2" attributes="0"/>
+                              <EmptySpace min="-2" pref="22" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                    </DimensionLayout>
+                  </Layout>
+                  <SubComponents>
+                    <Container class="javax.swing.JScrollPane" name="jScrollPane5">
+                      <AuxValues>
+                        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+                      </AuxValues>
+
+                      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+                      <SubComponents>
+                        <Component class="javax.swing.JTable" name="jTable3">
+                          <Properties>
+                            <Property name="model" type="javax.swing.table.TableModel" editor="org.netbeans.modules.form.editors2.TableModelEditor">
+                              <Table columnCount="3" rowCount="0">
+                                <Column editable="true" title="Signature (Fingerprint)" type="java.lang.Object"/>
+                                <Column editable="true" title="Chunk Id" type="java.lang.Object"/>
+                                <Column editable="true" title="Row Id" type="java.lang.Object"/>
+                              </Table>
+                            </Property>
+                            <Property name="columnModel" type="javax.swing.table.TableColumnModel" editor="org.netbeans.modules.form.editors2.TableColumnModelEditor">
+                              <TableColumnModel selectionModel="0">
+                                <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                                  <Title/>
+                                  <Editor/>
+                                  <Renderer/>
+                                </Column>
+                                <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                                  <Title/>
+                                  <Editor/>
+                                  <Renderer/>
+                                </Column>
+                                <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                                  <Title/>
+                                  <Editor/>
+                                  <Renderer/>
+                                </Column>
+                              </TableColumnModel>
+                            </Property>
+                            <Property name="tableHeader" type="javax.swing.table.JTableHeader" editor="org.netbeans.modules.form.editors2.JTableHeaderEditor">
+                              <TableHeader reorderingAllowed="true" resizingAllowed="true"/>
+                            </Property>
+                          </Properties>
+                          <AuxValues>
+                            <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="1"/>
+                          </AuxValues>
+                        </Component>
+                      </SubComponents>
+                    </Container>
+                    <Component class="javax.swing.JLabel" name="jLabel5">
+                      <Properties>
+                        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                          <Font name="Andalus" size="24" style="0"/>
+                        </Property>
+                        <Property name="text" type="java.lang.String" value="In-Chunk Max-Match"/>
+                      </Properties>
+                    </Component>
+                    <Component class="javax.swing.JButton" name="jButton8">
+                      <Properties>
+                        <Property name="text" type="java.lang.String" value="Send Data without Traffic Redundancy"/>
+                      </Properties>
+                      <Events>
+                        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton8ActionPerformed"/>
+                      </Events>
+                    </Component>
+                  </SubComponents>
+                </Container>
+              </SubComponents>
+            </Container>
+          </SubComponents>
+        </Container>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>
